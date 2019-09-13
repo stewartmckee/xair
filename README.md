@@ -1,8 +1,6 @@
-# Xair
+# Behringer XAir Client
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/xair`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This is a client for the Behrigner X-Air range of mixers.  Development state is very early development, will update this readme when status changes.  It is being developed against an XR12 device, if you have other devices, would appreciate you making contact for some testing later.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TBC
 
 ## Development
 
